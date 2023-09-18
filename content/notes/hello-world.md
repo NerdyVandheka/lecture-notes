@@ -150,13 +150,7 @@ Berikut merupakan perkembangan berat badan Nerdy dari bulan Juni hingga sekarang
 >Dan untuk apa manusia diciptakan.
 
 
-
-
-
-
-
-
-					    TERIMA KASIH
+					      TERIMA KASIH
 {{< html >}}
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <!-- Rectangle with animation -->
