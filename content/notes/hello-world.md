@@ -77,15 +77,15 @@ flowchart LR
 Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardcore hingga underground. Genre yang paling ia sukai adalah genre musik punk karena ia menyukai ciri khas nada lagu dari genre ini, selain itu juga ia menyukai lirik - lirik lagu punk yang berisi tentang fenomena sosial yang terjadi di negara ini.
 {{< youtube _UTstO_7a-U >}}
 
-## ChartJS
+## Berat Badan
 {{< chart 90 200 >}}
 {
     type: 'bar',
     data: {
-        labels: ['Minggu ke-1', 'Minggu ke-2', 'Minggu ke-3', 'minggu ke-4'],
+        labels: ['Bulan Juni', 'Bulan Juli', 'Bulan Agustus', 'Bulan September'],
         datasets: [{
-            label: 'Berat Badan 4 Minggu Terakhir',
-            data: [65,67,66,68],
+            label: 'Berat Badan 4 Bulan Terakhir',
+            data: [67,63,66,68],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
