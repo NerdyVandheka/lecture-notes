@@ -85,7 +85,7 @@ Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardc
         labels: ['Minggu ke-1', 'Minggu ke-2', 'Minggu ke-3', 'minggu ke-4'],
         datasets: [{
             label: 'Berat Badan 4 Minggu Terakhir',
-            data: [12, 19, 18, 16, 13, 14],
+            data: [65,67,66,68],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
