@@ -25,12 +25,12 @@ flowchart LR
   P[/"Process"/]
   O[/"Output"/]
   E[/"End"/]
-{{< mermaid >}}
+{{< /mermaid >}}
 
 ## Jadwal Kegiatan 
 Nomor | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
-1 | 24 Mei | Operasi Rahang | RS Polri
+1 | 24 Mei | Operasi Patah Rahang | RS Polri
 2 | 9 Juni | Ulang Tahun | 
 3 | 28 Juni | Idul Adha | Libur
 4 | 4 Sept | Kuliah | Semester baru
