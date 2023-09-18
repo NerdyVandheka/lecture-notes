@@ -79,6 +79,7 @@ Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardc
 {{< youtube _UTstO_7a-U >}}
 
 ## Berat Badan
+Berikut merupakan perkembangan berat badan Nerdy dari bulan Juni hingga sekarang.
 {{< chart 90 200 >}}
 {
     type: 'bar',
