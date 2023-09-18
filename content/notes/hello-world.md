@@ -13,8 +13,31 @@ url: "0048"
 ![](https://tse3.mm.bing.net/th?id=OIP.AU1puWN7VtY-xFReAq7OLgAAAA&pid=Api&P=0&h=180)
 
 ## Perkenalan
-Nerdy Vandheka atau yang akrab disapa dengan Nerdy adalah seorang pria yang berasal dari Soreang, Jawa Barat.Ia dilahirkan di Mojokerto pada Tanggal 17 Juni Tahun 2003. Saat ini ia sedang menempuh pendidikan di Universitas Brawijaya yang berada di kota Malang. Nerdy sudah mulai memasuki Semester 7 pada program studi Ilmu Kelautan Fakultas Perikanan dan Ilmu Kelautan (FPIK). Ia memiliki hobi berolahraga seperti lari hingga melakukan angkat beban, selain itu ia juga rutin melinting tembakau karena dia merupakan seorang perokok aktif sejak SD. Makanan kesukaannya yaitu nasi goreng, bebek goreng, indomie, dan nasi padang.
+Nerdy Vandheka atau yang akrab disapa dengan Nerdy adalah seorang pria yang berasal dari Soreang, Jawa Barat.Ia dilahirkan di Mojokerto pada Tanggal 17 Juni Tahun 2003. Saat ini ia sedang menempuh pendidikan di Universitas Brawijaya yang berada di kota Malang. Nerdy sudah mulai memasuki Semester 7 pada program studi Ilmu Kelautan Fakultas Perikanan dan Ilmu Kelautan (FPIK).
+# Hobi
+Ia memiliki hobi berolahraga seperti lari hingga melakukan angkat beban, selain itu ia juga rutin melinting tembakau karena dia merupakan seorang perokok aktif sejak SD.
+# Makanan Favorit 
+Maskanan kesukaannya yaitu nasi goreng, bebek goreng, indomie, dan nasi padang.
+# Pelajaran Favorit
+Pelajaran yang paling disukai olehnya adalah pelajaran Matematika, terutama pada pelajaran matriks seperti contoh yang dibawah ini.
+$$
+\mathbf{m} =
+\left[
+\begin{matrix}
+1 & 2 & 3 & 4 & 5 \newline
+1 & 2 & 3 & 4 & 5 \newline
+1 & 2 & y^2 & z & x \newline
+\end{matrix}
+\right]
+$$
 
+$$
+x_{1,2} = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
+$$
+
+$$\tag{23}
+y = ax^2 + bx +c
+$$
 
 ## Media Sosial
 + [GitHub](https://nerdyvandheka.github.io/lecture-notes/)
@@ -161,22 +184,4 @@ Berikut merupakan perkembangan berat badan Nerdy dari bulan Juni hingga sekarang
 </svg>
 {{< /html >}}
 
-## HTML
-$$
-\mathbf{m} =
-\left[
-\begin{matrix}
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & y^2 & z & x \newline
-\end{matrix}
-\right]
-$$
 
-$$
-x_{1,2} = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
-$$
-
-$$\tag{23}
-y = ax^2 + bx +c
-$$
