@@ -52,6 +52,17 @@ Nomor | Tanggal | Kegiatan | Info
 + Tidur
 
 ## Keseharian
+{{< mermaid >}}
+flowchart LR
+  B--> A & C & D & E & F & G
+  B(("<b>Pagi</b>"))
+  A[/"Bangun Tidur"/]
+  C[/"Sholat Shubuh"/]
+  D[/"Olahraga Pagi"/]
+  E[/"Pembersihan"/]
+  F[/"Sarapan Pagi"/]
+  G[/"Kuliah"/]
+{{< /mermaid >}}
 + Pagi
   - Bangun Tidur
   - Sholat Shubuh
