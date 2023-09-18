@@ -1,16 +1,15 @@
 ---
-title: "HELLO COMRADE"
+title: "Profil Nerdy Vandheka"
 date: 2023-09-18T07:44:00+07:00
 authors: ['Nerdy Vandheka']
-tags: ['666']
+tags: ['21181213']
 draft: false
 math: true
 url: "0048"
 ---
 {{< toc >}}
 
-## TOPIC
-NERDY'S LIFE
+[NERDY'S LIFE]
 
 ![](https://tse3.mm.bing.net/th?id=OIP.AU1puWN7VtY-xFReAq7OLgAAAA&pid=Api&P=0&h=180)
 
@@ -30,7 +29,7 @@ NERDY'S LIFE
 + Balapan
 + Tidur
 
-## Jadwal Kegiatan 
+## Riwayat Pendidikan
 Nomor | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
 1 | 24 Mei | Operasi| RS Polri
