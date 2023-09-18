@@ -14,11 +14,11 @@ url: "0048"
 
 ## Perkenalan
 Nerdy Vandheka atau yang akrab disapa dengan Nerdy adalah seorang pria yang berasal dari Soreang, Jawa Barat.Ia dilahirkan di Mojokerto pada Tanggal 17 Juni Tahun 2003. Saat ini ia sedang menempuh pendidikan di Universitas Brawijaya yang berada di kota Malang. Nerdy sudah mulai memasuki Semester 7 pada program studi Ilmu Kelautan Fakultas Perikanan dan Ilmu Kelautan (FPIK).
-# Hobi
+### Hobi
 Ia memiliki hobi berolahraga seperti lari hingga melakukan angkat beban, selain itu ia juga rutin melinting tembakau karena dia merupakan seorang perokok aktif sejak SD.
-# Makanan Favorit 
+### Makanan Favorit 
 Maskanan kesukaannya yaitu nasi goreng, bebek goreng, indomie, dan nasi padang.
-# Pelajaran Favorit
+### Pelajaran Favorit
 Pelajaran yang paling disukai olehnya adalah pelajaran Matematika, terutama pada pelajaran matriks seperti contoh yang dibawah ini.
 $$
 \mathbf{m} =
