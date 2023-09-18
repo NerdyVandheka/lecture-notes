@@ -13,7 +13,7 @@ url: "0048"
 ![](https://tse3.mm.bing.net/th?id=OIP.AU1puWN7VtY-xFReAq7OLgAAAA&pid=Api&P=0&h=180)
 
 ## Perkenalan
-Nerdy Vandheka atau yang akrab disapa dengan Nerdy adalah seorang pria yang berasal dari Soreang, Jawa Barat.Ia dilahirkan di Mojokerto pada Tanggal 17 Juni Tahun 2003. Saat ini ia sedang menempuh pendidikan di Universitas Brawijaya yang berada di kota Malang. Nerdy sudah mulai memasuki Semester 7 pada program studi Ilmu Kelautan Fakultas Perikanan dan Ilmu Kelautan (FPIK).
+Nerdy Vandheka atau yang akrab disapa dengan Nerdy adalah seorang pria yang berasal dari Soreang, Jawa Barat.Ia dilahirkan di Mojokerto pada Tanggal 17 Juni Tahun 2003. Ia memiliki perawakan tinggi 173 CM dan memiliki kulit sawo matang. Saat ini ia sedang menempuh pendidikan di Universitas Brawijaya yang berada di kota Malang. Nerdy sudah mulai memasuki Semester 7 pada program studi Ilmu Kelautan Fakultas Perikanan dan Ilmu Kelautan (FPIK).
 ### Hobi
 Ia memiliki hobi berolahraga seperti lari hingga melakukan angkat beban, selain itu ia juga rutin melinting tembakau karena dia merupakan seorang perokok aktif sejak SD.
 ### Makanan Favorit 
