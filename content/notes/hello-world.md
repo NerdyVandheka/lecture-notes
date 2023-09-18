@@ -12,7 +12,7 @@ url: "0048"
 ## TOPIC
 NERDY'S LIFE
 
-![] (https://ae01.alicdn.com/kf/HTB1GUumaQfb_uJkSnaVq6xFmVXaN/Desain-Logo-Kustom-Bordir-Band-PUNK-Rock-Logo-Gratis.jpg)
+![](https://tse3.mm.bing.net/th?id=OIP.AU1puWN7VtY-xFReAq7OLgAAAA&pid=Api&P=0&h=180)
 
 ## Link
 + [GitHub](https://nerdyvandheka.github.io/lecture-notes/)
