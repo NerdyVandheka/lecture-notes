@@ -9,13 +9,14 @@ url: "0048"
 ---
 {{< toc >}}
 
-[NERDY'S LIFE]
+*NERDY'S LIFE*
 
 ![](https://tse3.mm.bing.net/th?id=OIP.AU1puWN7VtY-xFReAq7OLgAAAA&pid=Api&P=0&h=180)
 
-## Link
+## Media Sosial
 + [GitHub](https://nerdyvandheka.github.io/lecture-notes/)
 + [Google](https://www.Google.com)
++ [Instagram](https://www.Instagram.com)
 
 ## List makanan Kesukaan
 + Indomie
