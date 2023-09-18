@@ -34,6 +34,28 @@ Nomor | Tanggal | Kegiatan | Info
 
 ## Hobi
 + Tingwe
-+ Olahraga
++ Binsik
 + Balapan
 + Tidur
+
+## Keseharian
++ Pagi
+  - Bangun Tidur
+  - Sholat Shubuh
+  - Olahraga Pagi
+  - Pembersihan
+  - Sarapan Pagi
+  - Kuliah
++ Siang
+  - Sholat Dzuhur
+  - Makan Siang
+  - Kuliah
++ Sore
+  - Sholat Ashar
+  - Olahraga Sore
+  - Pembersihan
++ Malam
+  - Sholat Maghrib
+  - Makan Malam
+  - Sholat Isya
+  - Tidur Malam
