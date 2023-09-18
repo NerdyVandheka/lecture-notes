@@ -74,5 +74,42 @@ flowchart LR
 {{< /mermaid >}}
 
 ## Penikmat Lagu PUNK
-Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardcore hingga underground. Genre yang paling ia sukai adalah genre musik punk karena ia menyukai ciri khas nada lagu dari genre ini, selain itu juga ia menyukai lirik lirik lagu punk yang berisi tentang fenomena sosial yang terjadi di negara ini.
+Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardcore hingga underground. Genre yang paling ia sukai adalah genre musik punk karena ia menyukai ciri khas nada lagu dari genre ini, selain itu juga ia menyukai lirik - lirik lagu punk yang berisi tentang fenomena sosial yang terjadi di negara ini.
 {{< youtube _UTstO_7a-U >}}
+
+## ChartJS
+{{< chart 90 200 >}}
+{
+    type: 'bar',
+    data: {
+        labels: ['Minggu ke-1', 'Minggu ke-2', 'Minggu ke-3', 'minggu ke-4'],
+        datasets: [{
+            label: 'Berat Badan 4 Minggu Terakhir',
+            data: [12, 19, 18, 16, 13, 14],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        maintainAspectRatio: false,
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
+    }
+}
+{{< /chart >}}
