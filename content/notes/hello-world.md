@@ -148,6 +148,7 @@ Berikut merupakan perkembangan berat badan Nerdy dari bulan Juni hingga sekarang
 >Api yang menjilat manusia.
 >Yang tiada henti mengedap manusia.
 >Dan untuk apa manusia diciptakan.
+>~DislawxATAS~
 
 
 					       TERIMA KASIH
