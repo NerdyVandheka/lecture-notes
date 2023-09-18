@@ -81,4 +81,5 @@ flowchart LR
 {{< /mermaid >}}
 
 ## Penikmat Lagu PUNK
+Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardcore hingga underground.
 {{< youtube _UTstO_7a-U >}}
