@@ -125,3 +125,16 @@ Berikut merupakan perkembangan berat badan Nerdy dari bulan Juni hingga sekarang
 >Api yang menjilat manusia.
 >Yang tiada henti mengedap manusia.
 >Dan untuk apa manusia diciptakan.
+
+## SVG
+Animation with SVG
+{{< html >}}
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectangle with animation -->
+  <rect x="10" y="10" width="50" height="50" fill="blue">
+    <animate attributeName="width" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="height" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="blue;red;green;blue" dur="4s" begin="0s" repeatCount="indefinite" />
+  </rect>
+</svg>
+{{< /html >}}
