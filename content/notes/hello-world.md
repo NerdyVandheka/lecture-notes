@@ -33,6 +33,7 @@ Nomor | Tanggal | Kegiatan | Info
 5 | 6 Okt | UTS | -
 
 ## Keseharian
+Berikut ini merupakan rutinitas yang dilakukan Nerdy dari pagi hari hingga malam hari.
 {{< mermaid >}}
 flowchart LR
   B--> A & C & D & E & F & G
@@ -113,3 +114,13 @@ Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardc
     }
 }
 {{< /chart >}}
+
+## Kutipan Puisi Favorit 
+>Ketika manusia diciptakan
+>>Dan jatuh kedalam lembah dosa dan nista
+>Apakah Adam dan Hawa
+>>Juga jatuh kedalam dosa manusia
+>Yang terhukum api neraka
+>>Api yang menjilat manusia
+>Yang tiada henti mengedap manusia
+>>Dan untuk apa manusia diciptakan
