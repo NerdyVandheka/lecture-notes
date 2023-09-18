@@ -9,8 +9,23 @@ url: "0048"
 ---
 {{< toc >}}
 
-## NERDY'S LIFE
+## TOPIC
+NERDY'S LIFE
 
+## Image
+![]
+(https://www.google.com/imgres?imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F51%2F93%2F74%2F1000_F_351937401_5LejoNSDGaBhVesJuKXOTg7ptUjv3Ely.jpg&tbnid=zEWhJG-pjOKPKM&vet=12ahUKEwji4_zytLOBAxW65TgGHVTRDQUQMygmegUIARC0AQ..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fpunk-rock-street-music-culture-tattoo-and-t-shirt-design-punker-with-mohawk-hairstyle-musician-and-electric-guitar-guitarist-hooligans-lifestyle-anarchy-art%2F351937401&docid=xkxkkdedZWkRKM&w=800&h=1000&q=gambar%20punk%20lifestyle&ved=2ahUKEwji4_zytLOBAxW65TgGHVTRDQUQMygmegUIARC0AQ)
+
+## Diagram 
+{{< mermaid >}}
+flowchart LR
+  B--> I & P --> O & E
+  B(("<b>Begin</b>"))
+  I[/"Input"/]
+  P[/"Process"/]
+  O[/"Output"/]
+  E[/"End"/]
+{{< mermaid >}}
 
 ## Jadwal Kegiatan 
 Nomor | Tanggal | Kegiatan | Info
