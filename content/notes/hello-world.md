@@ -116,7 +116,7 @@ Berikut merupakan perkembangan berat badan Nerdy dari bulan Juni hingga sekarang
 }
 {{< /chart >}}
 
-## Kutipan Puisi Favorit 
+## Kutipan Favorit 
 >Ketika manusia diciptakan
 >>Dan jatuh kedalam lembah dosa dan nista
 >Apakah Adam dan Hawa
