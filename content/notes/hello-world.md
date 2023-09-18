@@ -9,11 +9,11 @@ url: "0048"
 ---
 {{< toc >}}
 
-## first section
-Content of first section.
+## Topic
+Nerdy's Life
 
 
-##table 
+## Jadwal Kegiatan 
 Nomor | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
 1 | 22 Jun | Latihan | -
@@ -26,28 +26,14 @@ Nomor | Tanggal | Kegiatan | Info
 + [GitHub](https://nerdyvandheka.github.io/lecture-notes/)
 + [Google](https://www.Google.com)
 
-##List makanan Kesukaan
+## List makanan Kesukaan
 + Indomie
 + Nasi Goreng
 + Bebek Goreng
 + Nasi Padang
 
-##equation
-$$
-\mathbf{m} =
-\left[
-\begin{matrix}
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & y^2 & z & x \newline
-\end{matrix}
-\right]
-$$
-
-$$
-x_{1,2} = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
-$$
-
-$$\tag{23}
-y = ax^2 + bx +c
-$$
+## Hobi
++ Tingwe
++ Olahraga
++ Balapan
++ Tidur
