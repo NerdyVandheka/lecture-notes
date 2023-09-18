@@ -12,8 +12,7 @@ url: "0048"
 ## TOPIC
 NERDY'S LIFE
 
-![]
-(https://ae01.alicdn.com/kf/HTB1GUumaQfb_uJkSnaVq6xFmVXaN/Desain-Logo-Kustom-Bordir-Band-PUNK-Rock-Logo-Gratis.jpg)
+![] (https://ae01.alicdn.com/kf/HTB1GUumaQfb_uJkSnaVq6xFmVXaN/Desain-Logo-Kustom-Bordir-Band-PUNK-Rock-Logo-Gratis.jpg)
 
 ##  Life is a Choice
 {{< mermaid >}}
