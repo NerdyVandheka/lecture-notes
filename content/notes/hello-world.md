@@ -14,26 +14,6 @@ NERDY'S LIFE
 
 ![] (https://ae01.alicdn.com/kf/HTB1GUumaQfb_uJkSnaVq6xFmVXaN/Desain-Logo-Kustom-Bordir-Band-PUNK-Rock-Logo-Gratis.jpg)
 
-##  Life is a Choice
-{{< mermaid >}}
-flowchart LR
-  B--> I --> P --> O --> E
-  B(("<b>Punya Motivasi</b>"))
-  I[/"Senang"/]
-  P[/"Semangat"/]
-  O[/"Sukses"/]
-  E[/"Bahagia"/]
-{{< /mermaid >}}
-
-## Jadwal Kegiatan 
-Nomor | Tanggal | Kegiatan | Info
-:-: | :- | -: | :-:
-1 | 24 Mei | Operasi| RS Polri
-2 | 9 Juni | Ulang Tahun | 
-3 | 28 Juni | Idul Adha | Libur
-4 | 4 Sept | Kuliah | Semester baru
-5 | 6 Okt | UTS | -
-
 ## Link
 + [GitHub](https://nerdyvandheka.github.io/lecture-notes/)
 + [Google](https://www.Google.com)
@@ -50,6 +30,15 @@ Nomor | Tanggal | Kegiatan | Info
 + Balapan
 + Tidur
 
+## Jadwal Kegiatan 
+Nomor | Tanggal | Kegiatan | Info
+:-: | :- | -: | :-:
+1 | 24 Mei | Operasi| RS Polri
+2 | 9 Juni | Ulang Tahun | 
+3 | 28 Juni | Idul Adha | Libur
+4 | 4 Sept | Kuliah | Semester baru
+5 | 6 Okt | UTS | -
+
 ## Keseharian
 {{< mermaid >}}
 flowchart LR
@@ -62,23 +51,31 @@ flowchart LR
   F[/"Sarapan Pagi"/]
   G[/"Kuliah"/]
 {{< /mermaid >}}
-+ Pagi
-  - Bangun Tidur
-  - Sholat Shubuh
-  - Olahraga Pagi
-  - Pembersihan
-  - Sarapan Pagi
-  - Kuliah
-+ Siang
-  - Sholat Dzuhur
-  - Makan Siang
-  - Kuliah
-+ Sore
-  - Sholat Ashar
-  - Olahraga Sore
-  - Pembersihan
-+ Malam
-  - Sholat Maghrib
-  - Makan Malam
-  - Sholat Isya
-  - Tidur Malam
+
+{{< mermaid >}}
+flowchart LR
+  B--> A & C & D 
+  B(("<b>Siang</b>"))
+  A[/"Sholat Dzuhur"/]
+  C[/"Makan Siang"/]
+  D[/"Kuliah"/]
+{{< /mermaid >}}
+
+{{< mermaid >}}
+flowchart LR
+  B--> A & C & D 
+  B(("<b>Sore</b>"))
+  A[/"Sholat Ashar"/]
+  C[/"Olahraga Sore"/]
+  D[/"Pembersihan"/]
+{{< /mermaid >}}
+
+{{< mermaid >}}
+flowchart LR
+  B--> A & C & D & E
+  B(("<b>Malam</b>"))
+  A[/"Sholat Maghrib"/]
+  C[/"Makan Malam"/]
+  D[/"Sholat Isya"/]
+  E[/"Tidur Malam"/]
+{{< /mermaid >}}
