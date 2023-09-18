@@ -30,11 +30,11 @@ url: "0048"
 + Balapan
 + Tidur
 
-## Riwayat Pendidikan
+## Jadwal Kegiatan
 Nomor | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
 1 | 24 Mei | Operasi| RS Polri
-2 | 9 Juni | Ulang Tahun | 
+2 | 9 Juni | Ulang Tahun | -
 3 | 28 Juni | Idul Adha | Libur
 4 | 4 Sept | Kuliah | Semester baru
 5 | 6 Okt | UTS | -
