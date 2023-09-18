@@ -98,7 +98,7 @@ flowchart LR
 {{< /mermaid >}}
 
 ## Penikmat Lagu PUNK
-Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardcore hingga underground. Genre yang paling ia sukai adalah genre musik punk karena ia menyukai ciri khas nada lagu dari genre ini, selain itu juga ia menyukai lirik - lirik lagu punk yang berisi tentang fenomena sosial yang terjadi di negara ini.
+Semenjak remaja Nerdy menyukai lagu - lagu dengan genre punk, metal, rock, hardcore hingga underground. Genre yang paling ia sukai adalah genre musik punk karena ia menyukai ciri khas nada lagu dari genre ini, selain itu juga ia menyukai lirik - lirik lagu punk yang berisi tentang fenomena sosial yang terjadi di negara ini. Salah satu lagu favoritnya ialah lagu dari band Marjinal yang berjudul Negri Ngeri.
 {{< youtube _UTstO_7a-U >}}
 
 ## Berat Badan
